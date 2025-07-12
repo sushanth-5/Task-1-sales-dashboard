@@ -93,3 +93,4 @@ These insights were made actionable and visual using Power BI’s built-in visua
 - Business storytelling through visuals
 
 ## OUTPUT of the task
+![Image](https://github.com/user-attachments/assets/5d72e2db-10ec-4d5c-9d16-134e5ee6996b)
